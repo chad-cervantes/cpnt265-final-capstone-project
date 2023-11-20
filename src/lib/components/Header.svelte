@@ -2,9 +2,9 @@
   //Primary Navbar
    const navLinks = [
     {name: 'Home', href: '/'},
-    {name: 'Programs', href: '/'},
-    {name: 'Gallery', href: '/'},
-    {name: 'Schedule', href: '/'},
+    {name: 'Programs', href: '/programs'},
+    {name: 'Gallery', href: '/gallery'},
+    {name: 'Schedule', href: '/schedule'},
     {name: 'About', href: '/about'},
     {name: 'Contact', href: '/contact'}
   ];
