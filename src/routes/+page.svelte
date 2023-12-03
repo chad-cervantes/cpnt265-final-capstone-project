@@ -1,3 +1,7 @@
+<svelte:head>
+  <title>Common Ground Dance</title>
+</svelte:head>
+
 <main>
   <!-- hero section -->
   <div class="grid grid-cols-3 grid-rows-2">
