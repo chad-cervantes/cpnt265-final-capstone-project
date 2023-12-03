@@ -1,3 +1,9 @@
+<script>
+  import Card from '$lib/components/Card.svelte';
+
+  import { danceObj } from '$lib/data.js';
+</script>
+
 <main>
   <!-- hero section -->
   <div class="grid grid-cols-3 grid-rows-2">
@@ -9,3 +15,13 @@
     </div>
 </div>
 </main>
+
+<h1 class="text-center text-[30px] font-bold p-8">PROGRAMS</h1>
+
+<!--for each loop for cards-->
+
+<section class="lg:grid grid-cols-2 mb-[100px]">
+  {#each danceObj as card}
+    <Card {...card} />
+  {/each}
+</section>
