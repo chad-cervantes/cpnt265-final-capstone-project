@@ -4,7 +4,7 @@
     <img src='images/gallery-photo-3.jpg' alt='studio choreography' class="col-span-full col-start-1 row-start-1 row-span-full w-screen h-[600px]">
   
     <div class="h-max-[60%] z-10 bg-secondary-100 col-start-2 row-start-2 row-span-full text-slate-50 self-end p-4 overflow-hidden m-auto relative mb-[390px] ml-[-480px]">
-      <h3 class="text-4xl pb-2 text-center">ABOUT ME</h3>
+      <h3 class="text-4xl pb-2 text-center font-bold">ABOUT ME</h3>
     </div>
 </div>
 </main>
