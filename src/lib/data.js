@@ -18,7 +18,7 @@ export const danceObj = [
   {img: 'images/programs/west-african-program-pexels.jpg',
   title: 'West African',
   cta: 'Learn More',
-  url: ''}
+  url: ''},
 
   {img: 'images/programs/youth-classes-pexels.jpg',
   title: 'Youth Classes',
