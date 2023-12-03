@@ -19,10 +19,6 @@
   ]
 </script>
 
-<svelte:head>
-  <title>Portraits</title>
-</svelte:head>
-
 <h1 class="p-4 text-center text-[50px] font-bold">PERFORMANCE</h1>
 
 <section class="flex flex-col items-center">
