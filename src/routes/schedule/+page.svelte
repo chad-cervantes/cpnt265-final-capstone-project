@@ -23,24 +23,41 @@
       id: '1',
       title  : 'West African Dance',
       start  : '2023-12-08',
-      end: '2023-12-09',
-      allDay : false,
+      end: '2023-12-08',
+      allDay:false,
       startTime: '18:00:00',
       endTime: '19:00:00',
+      daysOfWeek: [ '1' ],
     },
     {
       id: '2',
       title  : 'Hip Hop Dance',
       start  : '2023-12-16',
-      allDay : false,
+      end: '2023-12-16',
+      allDay: false,
       startTime: '18:00:00',
+      endTime: '19:00:00',
+      daysOfWeek: [ '2' ],
     },
     {
-      id: '3',
+      id: '4',
       title  : 'Contemporary Dance',
       start  : '2023-12-21',
-      allDay : false,
+      end: '2023-12-21',
+      allDay: false,
       startTime: '18:00:00',
+      endTime: '19:00:00',
+      daysOfWeek: [ '3' ],
+    },
+    {
+      id: '5',
+      title  : 'Jazz Dance',
+      start  : '2023-12-27',
+      end: '2023-12-27',
+      allDay: false,
+      startTime: '18:00:00',
+      endTime: '19:00:00',
+      daysOfWeek: [ '4' ],
     }
   ]
   });
@@ -49,5 +66,5 @@
   });
 </script>
 
-<div id="calendar"></div>
+<div id="calendar" class="p-4"></div>
 
