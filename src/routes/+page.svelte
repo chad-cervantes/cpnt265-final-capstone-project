@@ -12,9 +12,21 @@
       </video>
     </section>
   
-    <div class="h-max-[60%] z-10 bg-secondary-100 col-start-2 row-start-2 row-span-full text-slate-50 self-end p-4 overflow-hidden m-auto relative mt-[-670px]">
-      <h3 class="text-4xl pb-2 text-center font-bold">COMMON GROUND DANCE</h3>
-      <p class="text-center text-xl">Move to the Rhythm, Dance to Your Heartbeat!</p>
+    <div class="h-max-[60%] z-10 bg-secondary-100 col-start-2 row-start-2 row-span-full text-slate-50 self-end p-4 overflow-hidden m-auto relative mt-[-470px]">
+      <h3 class="text-6xl pb-2 text-center font-bold">COMMON GROUND DANCE</h3>
+      <p class="text-center text-2xl">Move to the Rhythm, Dance to Your Heartbeat!</p>
     </div>
   </div>
+
+  <h1 class="text-center text-4xl font-bold p-4">FEATURES</h1>
+
+  <section>
+    <article class="lg:w-[550px] bg-red-300 bg-contain  bg-cover text-xl text-center border-solid scale-75 m-auto rounded-[5%] p-8 hover:bg-orange-400 active:bg-teal-500 transition ease-linear duration-150">
+      <a href="https://www.cbc.ca/amp/1.6464049">
+        <img src="/images/home/home-photo-1.jpg" class="w-[500px] h-[350px] m-auto rounded-[5%]" alt="dance class">
+        <h3 class="p-4 text-6xl">CBC Calgary Asian Change Makers</h3>
+        <p>This is an article from CBC Calgary about how I used my financial background to grow the arts community here in Calgary</p>
+      </a>
+    </article>
+  </section>
 </main>
