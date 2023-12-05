@@ -17,7 +17,7 @@
   <nav>
     <ul class="lg:flex text-xl space-x-12 gap-2 p-4">
       {#each navLinks as {name, href}}
-        <div class="hover:bg-purple-600 rounded-[20px] active:bg-rose-600 px-2 rounded-[20px] ">
+        <div class="hover:bg-purple-600 rounded-[20px] transition duration-150 ease-linear active:bg-rose-600 px-2 rounded-[20px]">
           <li><a {href}>{name}</a></li>
         </div>
       {/each}  
