@@ -20,7 +20,9 @@
 
   <h1 class="text-center text-4xl font-bold p-8">FEATURES</h1>
 
-  <section class="lg:grid grid-cols-2">
+  <section class="lg:grid grid-cols-3">
+
+    <!--CBC Calgary Article-->
     <article class="lg:w-[550px] bg-red-300 bg-contain  bg-cover text-xl text-center border-solid scale-75 m-auto rounded-[5%] p-8 hover:bg-orange-400 active:bg-teal-500 transition ease-linear duration-150">
       <a href="https://www.cbc.ca/amp/1.6464049">
         <img src="/images/home/home-photo-1.jpg" class="w-[500px] h-[350px] m-auto rounded-[5%]" alt="dance class">
@@ -29,6 +31,7 @@
       </a>
     </article>
 
+    <!--Dance Resume-->
     <article class="lg:w-[550px] bg-red-300 bg-contain  bg-cover text-xl text-center border-solid scale-75 m-auto rounded-[5%] p-8 hover:bg-orange-400 active:bg-teal-500 transition ease-linear duration-150">
       <a href="/documents/dance-resume.pdf">
         <img src="/images/home/home-photo-2.jpg" class="w-[500px] h-[350px] m-auto rounded-[5%]" alt="dance class">
@@ -36,5 +39,10 @@
         <p>Here is a document of all of my previous and current dance experiences!</p>
       </a>
     </article>
+
+    <!--Video Interview-->
+    <div class="m-auto">
+      <iframe class="m-auto w-[75%] lg:w-[400px] h-[60vh] border-[10px] border-purple-400 rounded-2xl" width="560" height="315" src="https://www.youtube.com/embed/KlaMIRcy4lo?si=V6rqk1MJXYEqfsbF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
   </section>
 </main>
