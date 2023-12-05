@@ -1,7 +1,7 @@
 <script context="module" lang="ts">
   import ImageCarousel from "../../lib/components/ImageCarousel.svelte";
 
-  export const prerender = true
+  // export const prerender = true
 
   let images = [
     {title: 'Image 1', src:'/images/gallery/gallery-photo-1.jpg'},
