@@ -4,7 +4,7 @@
     src: string
   }
   export let images: ImageType[]
-  export let name = 'carousel'
+  // export let name = 'carousel'
   export const getItemId = (gallery: number) => `carousel-item-${gallery}`
 </script>
 
@@ -16,10 +16,12 @@
   {/each}
 </ul>
 
+<h2 class="text-center text-xl font-bold p-4">Choose An Image</h2>
+
 <nav>
-  <ul>
+  <ul class="p-4 mb-2">
     {#each images as {title}, gallery}
-      <li class="shrink-0 snap-center">
+      <li class="shrink-0 snap-center hover:opacity-50 transition duration-150 ease-linear text-center">
         <a href={`#${getItemId(gallery)}`}>{title}</a>
       </li>
     {/each}
