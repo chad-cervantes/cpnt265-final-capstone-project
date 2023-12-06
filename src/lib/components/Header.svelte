@@ -9,10 +9,11 @@
     {name: 'CONTACT', href: '/contact'}
   ];
 
+  import Icon from '@iconify/svelte';
 </script>
 
 <!--Primary Nav Links decoration-->
-<header class="bg-violet-400 text-white text-xl flex justify-center w-[auto] h-[100px] p-4">
+<header class="bg-violet-400 text-white text-xl flex justify-evenly w-[auto] h-[100px] p-4">
   <div><img src="images/common-ground-dance-logo.png" class="block w-[100px] h-[75px] p-4 mb-5 bg-cover" alt="Common Ground Dance logo"></div>
   <nav>
     <ul class="lg:flex text-xl space-x-12 gap-2 p-4 mt-2">
@@ -21,6 +22,26 @@
           <li><a {href}>{name}</a></li>
         </div>
       {/each}  
+
+      <!--Social Media-->
+      <div class="flex gap-4">
+        <a href="https://www.facebook.com/groups/195302860182">
+          <Icon icon="ic:baseline-facebook" width="30"  class="hover:opacity-50 transition duration-150 ease-in"/>
+        </a>
+
+        <a href="https://www.youtube.com/@CommonGroundDance">
+          <Icon icon="mingcute:youtube-line" width="30" class="hover:opacity-50 transition duration-150 ease-in"/>
+        </a>
+
+        <a href="https://www.instagram.com/vavooooom/?hl=en">
+          <Icon icon="mdi:instagram" width="30" class="hover:opacity-50 transition duration-150 ease-in"/>
+        </a>
+
+        <a href="https://www.linkedin.com/in/vanessa-padillo-cpa-cma-743bb635/" class="hover:opacity-50 transition duration-150 ease-in">
+          <Icon icon="mdi:linkedin" width="30"/>
+        </a>
+      </div>
+
     </ul>
   </nav>
 </header>
