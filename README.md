@@ -37,7 +37,7 @@ Image References
 - [Adult Classes Image](https://www.pexels.com/photo/3-women-dancing-on-brown-wooden-floor-8957645/)
 
 Video Resources
-- [Hero section video](https://www.youtube.com/watch?v=Jq_Zebxa-YI)
+- [Video hero-section tutorial](https://www.youtube.com/watch?v=Jq_Zebxa-YI)
 - [Dance Video Pexels](https://www.pexels.com/video/women-dancing-for-a-dance-video-7975419/)
 - [Resizing the video](https://www.youtube.com/watch?v=9yAStvszXh8)
 - [Sticky footer](https://www.youtube.com/shorts/dXRLxd4IZC4)
