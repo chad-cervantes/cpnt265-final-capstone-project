@@ -8,6 +8,7 @@ Classmates & Instructors
 - Kevin Fula
 - Sterling Smith
 - Tony Grimes (instructor) 
+- Ashlyn Knox (instructor)
 
 NPM Installations 
 - [Sveltekit](https://kit.svelte.dev/docs/creating-a-project)
