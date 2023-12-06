@@ -19,28 +19,31 @@
   export let onClick = () => {
     open = !open
   }
+
+  import DesktopNav from '$lib/components/DesktopNav.svelte';
 </script>
 
-
 <!--Primary Nav Links decoration-->
-
   <header class="bg-violet-400 text-white text-xl flex justify-evenly w-[auto] h-[100px] p-4">
     <div>
       <img src="images/common-ground-dance-logo.png" class="block w-[100px] h-[75px] p-4 mb-5 bg-cover" alt="Common Ground Dance logo">
     </div>
-    <div>
-      <AnimatedHamburger {open} {onClick} class="lg:width-[50rem]"/>
+   
+    <div class="lg:hidden block">
+      <AnimatedHamburger {open} {onClick} />
     </div>
+      <DesktopNav />
+ 
     {#if open}
       <nav transition:fly={{ y: -200, duration:400 }}>
-        <ul class="lg:flex text-xl space-x-12 gap-2 p-4 mt-2">
+        <ul class="lg:flex text-xl space-x-12 gap-2 p-4 mt-2 ">
           {#each navLinks as {name, href}}
             <div class="hover:bg-purple-600 rounded-[20px] transition duration-150 ease-linear active:bg-rose-600 px-2 rounded-[20px]">
               <li><a {href}>{name}</a></li>
             </div>
           {/each}  
 
-          <!--Social Media-->
+               <!--Social Media-->
           <div class="flex gap-4">
             <a href="https://www.facebook.com/groups/195302860182">
               <Icon icon="ic:baseline-facebook" width="30"  class="hover:opacity-50 transition duration-150 ease-in"/>
@@ -58,8 +61,7 @@
               <Icon icon="mdi:linkedin" width="30"/>
             </a>
           </div>
-
         </ul>
       </nav>
     {/if}
-  </header>
+</header> 
