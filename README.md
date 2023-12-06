@@ -16,7 +16,7 @@ NPM Installations
 - [Iconify](https://iconify.design/docs/icon-components/svelte/) 
 
 Image Carousel 
-- [Magnetic Image Carousel](https://www.youtube.com/watch?v=YqSLxkFuQp0)
+- [Magnetic Image Carousel tutorial](https://www.youtube.com/watch?v=YqSLxkFuQp0)
 
 About Page 
 - [Bio content sent from client email](https://mail.google.com/mail/u/0/popout?ver=13ua4yoq7j89l&search=inbox&th=%23thread-f%3A1784408698470189586&cvid=1) 
