@@ -28,24 +28,6 @@
 
   <section class="lg:grid grid-cols-3">
 
-    <!--CBC Calgary Article-->
-    <!-- <article class="lg:w-[550px] bg-purple-300 bg-contain  bg-cover text-xl text-center border-solid scale-75 m-auto rounded-[5%] p-8 hover:bg-pink-400 active:bg-yellow-500 transition ease-linear duration-150">
-      <a href="https://www.cbc.ca/amp/1.6464049">
-        <img src="/images/home/home-photo-1.jpg" class="w-[500px] h-[350px] m-auto rounded-[5%]" alt="dance class">
-        <h3 class="p-4 text-6xl">CBC Calgary</h3>
-        <p>This is an article from CBC Calgary about how I used my financial background to grow the arts community here in Calgary</p>
-      </a>
-    </article> -->
-
-    <!--Dance Resume-->
-    <!-- <article class="lg:w-[550px] bg-red-300 bg-contain  bg-cover text-xl text-center border-solid scale-75 m-auto rounded-[5%] p-8 hover:bg-orange-400 active:bg-teal-500 transition ease-linear duration-150">
-      <a href="/documents/dance-resume.pdf">
-        <img src="/images/home/home-photo-2.jpg" class="w-[500px] h-[350px] m-auto rounded-[5%]" alt="dance class">
-        <h3 class="p-4 text-6xl">Dance Resume</h3>
-        <p>Here is a document of all of my previous and current dance experiences!</p>
-      </a>
-    </article> -->
-
     {#each featureObj as feature}
      <FeatureCard {...feature} />
     {/each}
