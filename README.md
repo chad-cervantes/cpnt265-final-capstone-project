@@ -41,3 +41,4 @@ Video Resources
 - [Dance Video Pexels](https://www.pexels.com/video/women-dancing-for-a-dance-video-7975419/)
 - [Resizing the video](https://www.youtube.com/watch?v=9yAStvszXh8)
 - [Sticky footer](https://www.youtube.com/shorts/dXRLxd4IZC4)
+- [Animated hamburger menu toggle tutorial](https://www.youtube.com/watch?v=fWzKPUUQdQY)
