@@ -10,16 +10,16 @@ Classmates & Instructors
 - Tony Grimes (instructor) 
 
 NPM Installations 
-- [Sveltekit] (https://kit.svelte.dev/docs/creating-a-project)
-- [Tailwind CSS] (https://tailwindcss.com/docs/guides/sveltekit)
-- [fullCalendar] (https://fullcalendar.io/)
-- Iconify [https://iconify.design/docs/icon-components/svelte/] 
+- [Sveltekit](https://kit.svelte.dev/docs/creating-a-project)
+- [Tailwind CSS](https://tailwindcss.com/docs/guides/sveltekit)
+- [fullCalendar](https://fullcalendar.io/)
+- [Iconify](https://iconify.design/docs/icon-components/svelte/) 
 
 Image Carousel 
 - [Magnetic Image Carousel](https://www.youtube.com/watch?v=YqSLxkFuQp0)
 
 About Page 
-- [Bio content sent from client email ] (https://mail.google.com/mail/u/0/popout?ver=13ua4yoq7j89l&search=inbox&th=%23thread-f%3A1784408698470189586&cvid=1) 
+- [Bio content sent from client email](https://mail.google.com/mail/u/0/popout?ver=13ua4yoq7j89l&search=inbox&th=%23thread-f%3A1784408698470189586&cvid=1) 
 
 Contact Form
 - [Tutorial video](https://www.youtube.com/watch?v=dy1xpf5Ugno)
