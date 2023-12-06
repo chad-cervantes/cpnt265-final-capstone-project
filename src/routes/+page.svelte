@@ -21,6 +21,11 @@
     <div class="h-max-[60%] z-10 bg-secondary-100 col-start-2 row-start-2 row-span-full text-slate-50 self-end p-4 overflow-hidden m-auto relative mt-[-470px]">
       <h3 class="text-6xl pb-2 text-center font-bold">COMMON GROUND DANCE</h3>
       <p class="text-center text-2xl">Move to the Rhythm, Dance to Your Heartbeat!</p>
+      <a href='/schedule'>
+        <div class="ml-[40rem]">
+          <button class="width-[200px] p-[20px] font-bold font-[20px] text-center border rounded-[25px] uppercase mt-[20px] mr-[5px] align-center hover:bg-indigo-600 transition duration-150 ease-linear hover:text-yellow-300">Sign Up Today</button>
+        </div>
+      </a>
     </div>
   </div>
 
