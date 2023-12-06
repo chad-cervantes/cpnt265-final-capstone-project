@@ -2,7 +2,6 @@
   import Icon from '@iconify/svelte';
   
   const navLinks = [
-    {name: 'HOME', href: '/'},
     {name: 'PROGRAMS', href: '/programs'},
     {name: 'GALLERY', href: '/gallery'},
     {name: 'SCHEDULE', href: '/schedule'},

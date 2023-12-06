@@ -1,7 +1,6 @@
 <script>
   //Primary Navbar
    const navLinks = [
-    {name: 'HOME', href: '/'},
     {name: 'PROGRAMS', href: '/programs'},
     {name: 'GALLERY', href: '/gallery'},
     {name: 'SCHEDULE', href: '/schedule'},
@@ -26,7 +25,9 @@
 <!--Primary Nav Links decoration-->
   <header class="bg-violet-400 text-white text-xl flex justify-evenly w-[auto] h-[auto] p-4">
     <div>
-      <img src="images/common-ground-dance-logo.png" class="block w-[100px] h-[75px] p-4 mb-[5px] bg-cover" alt="Common Ground Dance logo">
+      <a href='/'>
+        <img src="images/common-ground-dance-logo.png" class="block w-[100px] h-[75px] p-4 mb-[5px] bg-cover hover:opacity-50 ease-linear duration-150 transition" alt="Common Ground Dance logo">
+     </a>
     </div>
    
     <div class="lg:hidden block">
