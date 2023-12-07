@@ -23,7 +23,7 @@
       <p class="text-center text-2xl">Move to the Rhythm, Dance to Your Heartbeat!</p>
       <a href='/schedule'>
         <div class="ml-[40rem]">
-          <button class="width-[200px] p-[20px] font-bold font-[20px] text-center border rounded-[25px] uppercase mt-[20px] mr-[5px] align-center hover:bg-indigo-600 transition duration-150 ease-linear hover:text-yellow-300">Sign Up Today</button>
+          <button class="width-[200px] p-[20px] font-bold font-[20px] text-center border rounded-[25px] uppercase mt-[20px] mr-[5px] align-center hover:bg-indigo-600 transition duration-150 ease-linear hover:text-yellow-300 active:bg-rose-600">Sign Up Today</button>
         </div>
       </a>
     </div>
@@ -43,3 +43,9 @@
     </div>
   </section>
 </main>
+
+<style>
+  h1, h3, p, button{
+    font-family: 'Khand';
+  }
+</style>
