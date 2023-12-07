@@ -26,7 +26,7 @@
 </section>
 
 <style>
-  h1, h3, p {
+  h3 {
     font-family: 'Khand';
   }
 </style>
