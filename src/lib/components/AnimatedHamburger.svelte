@@ -5,10 +5,10 @@
   }
 
   export let ariaLabel = 'toggle menu'
-  export let width = 80
+  export let width = 65
 </script>
 
-<button on:click={onClick} aria-expanded={open} aria-label={ariaLabel}>
+<button on:click={onClick} aria-expanded={open} aria-label={ariaLabel} class="hover:bg-pink-300 border border-none rounded-[20px] transition ease-linear duration-150 ml-[1rem]">
   <svg class:open viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width='5' {width}>
   
     <path 
