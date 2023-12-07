@@ -66,9 +66,3 @@
       </nav>
     {/if}
 </header> 
-
-<style>
-  header {
-    font-family: 'Khand';
-  }
-</style>
