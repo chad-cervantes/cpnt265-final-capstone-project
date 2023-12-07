@@ -25,7 +25,7 @@
   }
 
   .logo:hover path{
-    fill: #d946ef;
+    fill: #fb7185;
     transition-duration: 150ms;
     transition-timing-function: linear;
   }
