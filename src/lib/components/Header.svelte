@@ -37,9 +37,9 @@
  
     {#if open}
       <nav transition:fly={{ y: -200, duration:400 }}>
-        <ul class="lg:flex text-2xl space-x-12 gap-2 p-4 mt-2">
+        <ul class="lg:flex text-xl space-x-12 gap-2 p-4 mt-2">
           {#each navLinks as {name, href}}
-            <div class="hover:bg-purple-600 rounded-[100px] p-[150px] pt-[20px] transition duration-150 ease-linear active:bg-rose-600 px-2 rounded-[100px] lg:hidden">
+            <div class="hover:bg-purple-600 rounded-[20px] p-[2px] transition duration-150 ease-linear active:bg-rose-600 px-2 rounded-[20px] lg:hidden">
               <li><a {href}>{name}</a></li>
             </div>
           {/each}  
