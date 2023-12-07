@@ -20,13 +20,14 @@
   }
 
   import DesktopNav from '$lib/components/DesktopNav.svelte';
+  import Logo from './Logo.svelte';
 </script>
 
 <!--Primary Nav Links decoration-->
-  <header class="bg-violet-400 text-white text-xl flex justify-evenly w-[auto] h-[auto] p-4">
-    <div>
+  <header class="bg-violet-400 text-white text-xl flex justify-center w-[auto] h-[auto] p-4">
+    <div class="block w-[100px] h-[75px] bg-cover hover:fill-fuchsia-500 ease-linear duration-150 transition">
       <a href='/'>
-        <img src="images/common-ground-dance-logo.png" class="block w-[100px] h-[75px] p-4 mb-[5px] bg-cover hover:opacity-50 ease-linear duration-150 transition" alt="Common Ground Dance logo">
+        <Logo />
      </a>
     </div>
    
