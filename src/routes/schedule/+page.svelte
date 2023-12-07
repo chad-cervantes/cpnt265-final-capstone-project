@@ -66,5 +66,5 @@
   });
 </script>
 
-<div id="calendar" class="p-4"></div>
+<div id="calendar" class="p-4 lg:p-8"></div>
 
