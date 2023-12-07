@@ -7,6 +7,7 @@ Classmates & Instructors
 - Sydney Bruce
 - Kevin Fula
 - Sterling Smith
+- Dorthy Nguyen 
 - Tony Grimes (instructor) 
 - Ashlyn Knox (instructor)
 
