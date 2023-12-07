@@ -45,7 +45,7 @@
 </main>
 
 <style>
-  h1, h3, p, button{
+   h3 {
     font-family: 'Khand';
   }
 </style>
