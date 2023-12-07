@@ -5,10 +5,10 @@
 <main>
   <!-- hero section -->
   <div class="grid grid-cols-3 grid-rows-2 ">
-    <img src='images/contact/contact-image-1.jpg' alt='studio choreography' class="col-span-full col-start-1 row-start-1 row-span-full w-screen h-[600px]">
+    <img src='images/gallery/gallery-photo-2.jpg' alt='studio choreography' class="col-span-full col-start-1 row-start-1 row-span-full w-screen h-[600px] m-auto">
   
-    <div class="h-max-[60%] z-10 bg-secondary-100 col-start-2 row-start-2 row-span-full text-slate-50 self-end p-4 overflow-hidden m-auto relative mb-[390px] ml-[-480px]">
-      <h3 class="text-4xl pb-2 text-center font-bold">CONTACT INFO</h3>
+    <div class="h-max-[60%] z-10 bg-secondary-100 col-start-2 row-start-2 row-span-full text-slate-50 self-end p-4 overflow-hidden m-auto relative mb-[430px] mt-[-50rem]">
+      <h3 class="text-4xl pb-2 text-center font-bold mt-[200px]">CONTACT INFO</h3>
     </div>
   </div>
 <!-- 
@@ -16,7 +16,7 @@
 
 </main>
 
-<section class="flex w-full min-h-screen justify-center items-center mt-[-330px] p-8">
+<section class="flex w-full min-h-screen justify-center items-center mt-[30px] p-8">
   <div class="flex flex-col space-y-6 bg-pink-400 w-full max-w-4xl p-8 rounded-xl shadow-lg text-white">
     
     <div class="flex flex-col space-y-8 justify-between">
@@ -91,3 +91,9 @@
       </div>
     <div>
 </section>
+
+<style>
+  h3 {
+    font-family: 'Khand';
+  }
+</style>
