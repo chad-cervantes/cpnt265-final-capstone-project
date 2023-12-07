@@ -12,9 +12,3 @@
     <p class="p-4 lg:p-4 text-3xl">{cta}</p>
   </a>
 </article>
-
-<style> 
-  h3,p {
-    font-family: 'Khand';
-  }
-</style>
