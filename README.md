@@ -19,6 +19,11 @@ NPM Installations
 Image Carousel 
 - [Magnetic Image Carousel tutorial](https://www.youtube.com/watch?v=YqSLxkFuQp0)
 
+Google Fonts
+- [Khand google font](https://fonts.google.com/specimen/Khand?query=khand&noto.query=khand)
+- [How to install google fonts - stack overflow](https://stackoverflow.com/questions/59605327/how-do-you-load-and-use-a-custom-font-in-svelte)
+- [How to install google fonts - svelte](https://svelte.dev/repl/74da3ada2caa4a288b5122de8cbb7768?version=3.14.1)
+
 About Page 
 - [Bio content sent from client email](https://mail.google.com/mail/u/0/popout?ver=13ua4yoq7j89l&search=inbox&th=%23thread-f%3A1784408698470189586&cvid=1) 
 
