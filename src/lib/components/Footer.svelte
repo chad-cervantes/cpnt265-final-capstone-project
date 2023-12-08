@@ -16,11 +16,13 @@
 
 <!--Footer Nav Links decoration-->
 <header class="bg-black text-white text-md flex justify-evenly w-[auto] h-[full] p-4">
-  <div class="lg:w-[full] h-[75px] bg-cover ">
-    <a href='/'>
-     <Logo />
-    </a>
-     <p class="lg:mt-[10px] text-center">&copy 2023 Common Ground Dance Inc. All Rights Reserved.</p>
+  <div class="block w-[full] h-[150px] py-4">
+    <div class="ml-[50px] lg:ml-[150px]">
+      <a href='/'>
+        <Logo />
+      </a>
+    </div>
+     <p class="mt-[40px] lg:mt-[30px] text-center">&copy 2023 Common Ground Dance Inc. All Rights Reserved.</p>
    </div>
   <nav>
     <ul class="lg:grid grid-cols-3 text-lg text-center space-x-2 gap-x-36 gap-y-4 p-4">
