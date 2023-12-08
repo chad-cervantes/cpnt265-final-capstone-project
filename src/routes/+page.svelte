@@ -13,7 +13,7 @@
   <div class="min-h-screen">
     <!-- <img src='images/gallery/gallery-photo-2.jpg' alt='studio choreography' class="col-span-full col-start-1 row-start-1 row-span-full w-screen h-[600px]"> -->
     <section class="relative flex h-[100vh] shrink-0 flex-col items-center justify-center">
-      <video autoplay loop muted plays-inline disablepictureinpicture class="absolute w-full h-full object-cover -z-10">
+      <video autoplay loop muted plays-inline class="absolute w-full h-full object-cover -z-10">
         <source src='/videos/pexels-cottonbro-7975419-720p.mp4' type='video/mp4'>
       </video>
     </section>
