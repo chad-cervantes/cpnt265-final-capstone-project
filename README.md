@@ -20,6 +20,9 @@ NPM Installations
 - [fullCalendar](https://fullcalendar.io/)
 - [Iconify](https://iconify.design/docs/icon-components/svelte/) 
 
+Logo
+- The client made the logo
+
 Logo letter hover 
 
 - [Stack overflow letter hover](https://stackoverflow.com/questions/24342262/changing-text-color-on-hover-using-css)
