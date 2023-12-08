@@ -30,7 +30,7 @@
 
 <h1 class="p-4 text-center text-[50px] font-bold">PERFORMANCE PHOTOS & SELF-PORTRAITS</h1>
 
-<section class="flex flex-col items-center">
+<section class="lg:flex flex-col items-center">
     <ImageCarousel {images} />
   <slot />
 </section>
