@@ -3,8 +3,8 @@
   <div class="grid grid-cols-3 grid-rows-2">
     <img src='images/gallery/gallery-photo-3.jpg' alt='studio choreography' class="col-span-full col-start-1 row-start-1 row-span-full w-screen h-[600px]">
   
-    <div class="lg:h-max-[60%] z-10 bg-secondary-100 col-start-2 row-start-2 row-span-full text-slate-50 self-end p-4 overflow-hidden m-auto relative mb-[430px] mt-[-50rem]">
-      <h3 class="text-4xl pb-2 text-center font-bold m-auto mt-[200px]">ABOUT ME</h3>
+    <div class="lg:h-max-[60%] z-10 bg-secondary-100 col-start-2 row-start-2 row-span-full text-slate-50 self-end p-4 overflow-hidden m-auto relative mb-[430px] mt-[-270px]">
+      <h3 class="lg:text-4xl pb-2 text-center font-bold m-auto ">ABOUT ME</h3>
     </div>
   </div>
 </main>
