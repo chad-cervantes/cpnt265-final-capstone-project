@@ -17,7 +17,7 @@
 <!--Footer Nav Links decoration-->
 <header class="bg-black text-white text-md flex justify-evenly w-[auto] h-[full] p-4">
   <div class="block w-[full] h-[150px] py-4">
-    <div class="ml-[50px] lg:ml-[150px]">
+    <div class="w-[100px] ml-[40px] lg:ml-[150px]">
       <a href='/'>
         <Logo />
       </a>
