@@ -1,8 +1,7 @@
 <script context="module" lang="ts">
   import ImageCarousel from "../../lib/components/ImageCarousel.svelte";
 
-  // export const prerender = true
-
+  //Carousel images
   let images = [
     {title: 'Bboy Pose', src:'/images/gallery/gallery-photo-1.jpg'},
     {title: 'Jazz Dance', src:'/images/gallery/gallery-photo-2.jpg'},
@@ -25,10 +24,10 @@
     {title: 'Bboy outfit 2', src:'/images/gallery/protrait-photo-7.jpg'},
     {title: 'Bboy outfit 3', src:'/images/gallery/protrait-photo-8.jpg'},
   ]
-
 </script>
 
-<h1 class="p-4 text-center text-[50px] font-bold">PERFORMANCE PHOTOS & SELF-PORTRAITS</h1>
+<!--hero section title-->
+<h1 class="p-4 text-center text-4xl font-bold">PERFORMANCE PHOTOS & SELF-PORTRAITS</h1>
 
 <section class="lg:flex flex-col items-center">
     <ImageCarousel {images} />

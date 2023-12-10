@@ -9,16 +9,17 @@
   <div class="grid grid-cols-3 grid-rows-2">
     <img src='images/programs/programs-hero-section-image.jpg' alt='studio choreography' class="col-span-full col-start-1 row-start-1 row-span-full w-screen h-[600px]">
   
+    <!--hero section title-->
     <div class="h-max-[60%] z-10 bg-secondary-100 col-start-2 row-start-2 row-span-full text-slate-50 self-end p-4 overflow-hidden m-auto relative mt-[-270px]">
-      <h3 class="flex text-center text-3xl pb-2 text-center font-bold">START YOUR DANCE JOURNEY</h3>
-      <!-- <p class="flex text-center lg:text-center text-2xl">Join the dance revolution to where every step is a celebration of life!</p> -->
+      <h1 class="ml-[-17px] text-4xl text-center font-bold ">START YOUR DANCE JOURNEY</h1>
     </div>
-</div>
+  </div>
 </main>
 
-<h1 class="text-center text-[30px] font-bold p-8">PROGRAMS</h1>
+<!--Programs Section-->
+<h2 class="text-center text-4xl font-bold p-8">PROGRAMS</h2>
 
-<!--for each loop for cards-->
+<!--for each loop for program cards-->
 
 <section class="lg:grid grid-cols-2 mb-[100px]">
   {#each danceObj as card}
@@ -26,8 +27,9 @@
   {/each}
 </section>
 
+<!--styling hero-section title-->
 <style>
-  h3 {
+  h1 {
     font-family: 'Khand';
   }
 </style>

@@ -3,14 +3,17 @@
   <div class="grid grid-cols-3 grid-rows-2">
     <img src='images/gallery/gallery-photo-3.jpg' alt='studio choreography' class="col-span-full col-start-1 row-start-1 row-span-full w-screen h-[600px]">
   
+    <!--hero section title-->
     <div class="lg:h-max-[60%] z-10 bg-secondary-100 col-start-2 row-start-2 row-span-full text-slate-50 self-end p-4 overflow-hidden m-auto relative mt-[-270px]">
-      <h3 class="text-4xl pb-2 text-center font-bold m-auto ">ABOUT ME</h3>
+      <h1 class="text-4xl pb-2 text-center font-bold m-auto ">ABOUT ME</h1>
     </div>
   </div>
 </main>
 
-<h1 class="text-center text-[30px] font-bold p-8 mt-[40px]">MEET VANESSA PADILLO</h1>
+<!--Bio title-->
+<h2 class="text-center text-4xl font-bold p-8 mt-[40px]">MEET VANESSA PADILLO</h2>
 
+<!--Bio content and images-->
 <section class="lg:grid grid-cols-2 w-[75%] m-auto">
   <img src='images/about/about-photo-1.jpg' alt='studio choreography' class="lg:w-[75%] h-[75%] m-auto">
   
@@ -26,7 +29,7 @@
 </section>
 
 <style>
-  h3 {
+  h1 {
     font-family: 'Khand';
   }
 </style>

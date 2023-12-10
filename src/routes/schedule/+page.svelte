@@ -1,4 +1,5 @@
 <script>
+  //fullCalendar plugins
   import { Calendar } from '@fullcalendar/core';
   import timeGridPlugin from '@fullcalendar/timegrid';
   import dayGridPlugin from '@fullcalendar/daygrid';
@@ -10,6 +11,7 @@
   onMount(() => {
   const calendarEl = document.getElementById('calendar');
 
+  //fullCalendar variable
   let calendar = new Calendar(calendarEl, {
   plugins: [ dayGridPlugin, timeGridPlugin, listPlugin, interactionPlugin, multiMonthPlugin ],
   initialView: 'dayGridMonth',
@@ -18,6 +20,7 @@
     center: 'title',
     right: 'dayGridMonth,timeGridWeek,listWeek'
   },
+  //to add dates and times for classes
   events: [
     {
       id: '1',
@@ -66,5 +69,6 @@
   });
 </script>
 
+<!--id to render calendar-->
 <div id="calendar" class="p-4 lg:p-8"></div>
 
