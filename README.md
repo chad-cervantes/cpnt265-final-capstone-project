@@ -36,7 +36,7 @@ Google Fonts
 - [How to install google fonts - svelte](https://svelte.dev/repl/74da3ada2caa4a288b5122de8cbb7768?version=3.14.1)
 
 About Page 
-- [Bio content sent from client email](https://mail.google.com/mail/u/0/popout?ver=13ua4yoq7j89l&search=inbox&th=%23thread-f%3A1784408698470189586&cvid=1) 
+- [Bio content sent from client email](https://mail.google.com/mail/u/0/?ui=2&ik=a94526a709&view=lg&permmsgid=msg-f:1784408698470189586) 
 
 Contact Form
 - [Tutorial video](https://www.youtube.com/watch?v=dy1xpf5Ugno)
