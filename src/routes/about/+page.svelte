@@ -1,11 +1,11 @@
 <main>
   <!-- hero section -->
   <div class="grid grid-cols-3 grid-rows-2">
-    <img src='images/gallery/gallery-photo-3.jpg' alt='studio choreography' class="col-span-full col-start-1 row-start-1 row-span-full w-screen h-[600px]">
+    <img src='images/gallery/gallery-photo-3.jpg' alt='studio choreography' class="col-span-full col-start-1 row-start-1 row-span-full lg:w-screen h-[600px] object-cover">
   
     <!--hero section title-->
     <div class="lg:h-max-[60%] z-10 bg-secondary-100 col-start-2 row-start-2 row-span-full text-slate-50 self-end p-4 overflow-hidden m-auto relative mt-[-270px]">
-      <h1 class="text-4xl pb-2 text-center font-bold m-auto ">ABOUT ME</h1>
+      <h1 class="text-4xl pb-2 text-center font-bold m-auto">ABOUT ME</h1>
     </div>
   </div>
 </main>
@@ -15,7 +15,7 @@
 
 <!--Bio content and images-->
 <section class="lg:grid grid-cols-2 w-[75%] m-auto">
-  <img src='images/about/about-photo-1.jpg' alt='studio choreography' class="lg:w-[75%] h-[75%] m-auto">
+  <img src='images/about/about-photo-1.jpg' alt='studio choreography' class="lg:w-[75%] h-[75%] m-auto object-fill">
   
   <p class="text-left text-lg p-4 m-auto leading-9">Vanessa is the Founder and Owner of Common Ground Dance and Co-owner and Director of Movement With A Message Inc. Vanessa also sits on the board of The Screaming Goats Collective. She earned a Bachelor of Commerce from the University of Calgary Haskayne School of Business majoring in Risk Management and Insurance. Vanessa also holds a Chartered Professional Accountants (CPA) and a Certified Management Accountants (CMA) designation. With this unique background, she is passionate about consulting businesses and individuals involved in the Arts.</p>
 

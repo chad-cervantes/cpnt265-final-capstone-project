@@ -6,7 +6,7 @@
   <!-- hero section -->
   <div class="grid grid-cols-3 grid-rows-2 ">
     <!--hero section image-->
-    <img src='images/gallery/gallery-photo-2.jpg' alt='studio choreography' class="col-span-full col-start-1 row-start-1 row-span-full w-screen h-[600px] m-auto">
+    <img src='images/gallery/gallery-photo-2.jpg' alt='studio choreography' class="col-span-full col-start-1 row-start-1 row-span-full w-screen h-[600px] m-auto object-fill">
   
     <!--hero section title-->
     <div class="h-max-[60%] z-10 bg-secondary-100 col-start-2 row-start-2 row-span-full text-slate-50 self-end p-4 overflow-hidden m-auto relative mt-[-270px]">
@@ -19,7 +19,7 @@
 <section class="flex w-full min-h-screen justify-center items-center mt-[30px] p-8">
   <div class="flex flex-col space-y-6 bg-pink-400 w-full max-w-4xl p-8 rounded-xl shadow-lg text-white">
     
-    <div class="flex flex-col space-y-8 justify-between">
+    <div class="lg:flex flex-col space-y-8 justify-between">
       <div>
         <h2 class="font-bold text-4xl tracking-wide">Contact Me</h2>
         <h3 class="pt-2 text-md text-xl">Whether you have general or specific questions, inquire here!</h3>
@@ -32,7 +32,7 @@
       </div>
       
       <!--Email-->
-      <div class="flex gap-4">
+      <div class="lg:flex gap-4">
         <Icon icon="ic:outline-email" width="30" />
         <span>commongrounddance@gmail.com</span>
       </div>
