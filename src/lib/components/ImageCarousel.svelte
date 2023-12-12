@@ -9,8 +9,11 @@
 
 <ul class="flex overflow-x-auto gap-6 snap-x snap-mandatory before:shrink-0 before:w-[5vw] after:shrink-0 after:w-[5vw] p-4 scroll-smooth ">
   {#each images as {title,src}, gallery}
-    <li id={getItemId(gallery)} class="shrink-0 snap-center">
-      <img {title} {src} alt={title} class="w-[300px] h-[500px]"/>
+    <li id={getItemId(gallery)} class="shrink-0 snap-center shadow-lg relative">
+      <div class="z-10">
+        <img {title} {src} alt={title} class="w-[300px] h-[500px] rounded -z-10"/>
+        <p class="bg-primary text-white slate-200 px-4 py-2 semibold rounded absolute inset-x-2 drop-shadow-lg shadow-primary mt-[-50px]">{title}</p>
+      </div>
     </li>
   {/each}
 </ul>
