@@ -4,7 +4,6 @@
     src: string
   }
   export let images: ImageType[]
-  // export let name = 'carousel'
   export const getItemId = (gallery: number) => `carousel-item-${gallery}`
 </script>
 
