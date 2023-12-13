@@ -50,7 +50,7 @@ Youtube interview video in features section in the home page
 - [Interview video](https://www.youtube.com/watch?v=KlaMIRcy4lo&t=20s)
 
 Image References
-- Client's Facebook profile images in the gallery page, one or two in the about page, the hero-section images on all of the pages except for the home page, and the feature cards in the features section
+- Client's Facebook profile images in the gallery page, one or two in the about page, the hero-section images on all of the pages except for the home page, and the feature cards in the features section; all of the images are from the client's Facebook profile
 - [Jazz Dance Image](https://www.pexels.com/photo/adult-art-ballerina-ballet-209948/)
 - [Contemporary Dance Image](https://www.pexels.com/photo/woman-wearing-hijab-dancing-7817353/)
 - [Hip Hop Dance Image](https://www.pexels.com/photo/man-performing-hip-hop-dance-2820896/)
