@@ -23,6 +23,10 @@ NPM Installations
 Logo
 - The client made the logo
 
+Materials client provided
+- [CBC Calgary Article](https://www.cbc.ca/amp/1.6464049)
+- [Dance Resume](https://commongrounddance.netlify.app/documents/dance-resume.pdf)
+
 Logo letter hover 
 
 - [Stack overflow letter hover](https://stackoverflow.com/questions/24342262/changing-text-color-on-hover-using-css)
@@ -37,6 +41,7 @@ Google Fonts
 
 About Page 
 - [Bio content sent from client email](https://mail.google.com/mail/u/0/?ui=2&ik=a94526a709&view=lg&permmsgid=msg-f:1784408698470189586) 
+- [CBC Calgary Article photos](https://www.cbc.ca/amp/1.6464049)
 
 Contact Form
 - [Tutorial video](https://www.youtube.com/watch?v=dy1xpf5Ugno)
@@ -45,7 +50,7 @@ Youtube interview video in features section in the home page
 - [Interview video](https://www.youtube.com/watch?v=KlaMIRcy4lo&t=20s)
 
 Image References
-- Client's Facebook profile
+- Client's Facebook profile images in the gallery page, one or two in the about page, the hero-section images on all of the pages except for the home page, and the feature cards in the features section
 - [Jazz Dance Image](https://www.pexels.com/photo/adult-art-ballerina-ballet-209948/)
 - [Contemporary Dance Image](https://www.pexels.com/photo/woman-wearing-hijab-dancing-7817353/)
 - [Hip Hop Dance Image](https://www.pexels.com/photo/man-performing-hip-hop-dance-2820896/)
