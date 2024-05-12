@@ -5,7 +5,7 @@
   import { onMount } from 'svelte';
 
 onMount(() => {
-    document.querySelector('link[rel="icon"]').href = 'static/favicon.ico';
+    document.querySelector('link[rel="icon"]').href = 'favicon.ico';
 });
 </script>
 <Header />
