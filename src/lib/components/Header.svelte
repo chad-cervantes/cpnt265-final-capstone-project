@@ -48,7 +48,7 @@
                <!--Social Media-->
           <div class="flex gap-4 lg:hidden">
             <a href="https://www.facebook.com/groups/195302860182" target="_blank">
-              <Icon icon="ic:baseline-facebook" width="30"  class="hover:opacity-50 transition duration-150 ease-in target=_blank"/>
+              <Icon icon="ic:baseline-facebook" width="30" class="hover:opacity-50 transition duration-150 ease-in"/>
             </a>
 
             <a href="https://www.youtube.com/@CommonGroundDance" target="_blank">
